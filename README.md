@@ -26,4 +26,4 @@ Via conda:
  
  ![rule22](/screenShots/Rule22/r2217.png)
  
- ![rule52](/screenShots/Rule52/r5217.png)
+ ![rule54](/screenShots/Rule54/r5417.png)
